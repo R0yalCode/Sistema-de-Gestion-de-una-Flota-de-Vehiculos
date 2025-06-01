@@ -44,6 +44,7 @@ public class EjecutorVehiculo {
 
     private static void mostrarMenu() {
         System.out.println("\n=== Gestión de Flota ===");
+        System.out.println("Autores: Steeven Pardo, Juan Calopino, Royel Jima, Daniel Savedra");
         System.out.println("1. Registrar vehículo");
         System.out.println("2. Registrar viaje");
         System.out.println("3. Actualizar mantenimiento");
