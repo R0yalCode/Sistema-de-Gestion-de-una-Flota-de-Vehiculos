@@ -1,5 +1,6 @@
 #  Sistema de Gestión de una Flota de Vehículos para una Empresa de Reparto
-![Main](https://github.com/user-attachments/assets/97294d78-7f43-49e9-883c-40fd4b1f413f)
+![Main](https://github.com/user-attachments/assets/7bf28378-dd75-40ad-b25b-c84047f094d2)
+
 - Diagrama de clases
 ## Autores: 
 ### [Royel Jima](https://github.com/R0yalCode)
