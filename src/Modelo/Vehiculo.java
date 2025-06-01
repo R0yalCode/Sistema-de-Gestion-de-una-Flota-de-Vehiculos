@@ -63,10 +63,10 @@ public abstract class Vehiculo implements Serializable, Mantenimiento {
         }
     }
 
-    public float calcularConsumoCombustible(float distanciaRecorrida) {
-        validarDistancia(distanciaRecorrida);
-        return (distanciaRecorrida / capacidadCombustible) * consumoPorKM;
-    }
+    //public float calcularConsumoCombustible(float distanciaRecorrida) {
+    //    validarDistancia(distanciaRecorrida);
+    //    return (distanciaRecorrida / capacidadCombustible) * consumoPorKM;
+    //}
 
     public float calcularCostoOperativo(float precioCombustible, float distanciaRecorrida) {
         validarDistancia(distanciaRecorrida);
