@@ -37,9 +37,9 @@ public class Combustible implements Serializable {
         return PRECIOS.get(tipoCombustible);
     }
 
-    public static float obtenerPrecio(TipoCombustible tipoCombustible) {
-        return PRECIOS.getOrDefault(tipoCombustible, 0f);
-    }
+    //public static float obtenerPrecio(TipoCombustible tipoCombustible) {
+    //    return PRECIOS.getOrDefault(tipoCombustible, 0f);
+    //}
 
     public TipoCombustible getTipoCombustible() {
         return tipoCombustible;
