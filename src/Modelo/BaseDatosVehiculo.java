@@ -1,3 +1,11 @@
+/**
+ * @author
+ * Steeven Pardo
+ * Juan Calopino
+ * Royel Jima
+ * Daniel Savedra
+ */
+
 package Modelo;
 
 import java.io.*;
