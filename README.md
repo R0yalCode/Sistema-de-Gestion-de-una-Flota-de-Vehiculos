@@ -1,5 +1,6 @@
 #  Sistema de Gestión de una Flota de Vehículos para una Empresa de Reparto
-![UMLMain](https://github.com/user-attachments/assets/44e9871c-75b8-40c4-a6fb-2c691f127afd)
+![Imagen de WhatsApp 2025-05-31 a las 22 53 33_2a4abb1a](https://github.com/user-attachments/assets/fc8b7286-c19e-46f4-963a-a9782afd1235)
+
 
 
 - Diagrama de clases
